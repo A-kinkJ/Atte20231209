@@ -7,7 +7,7 @@ const router = createRouter({
     routes: [
         {
             path: "/",
-            name: "sattendances-list",
+            name: "attendances-list",
             component: AttendanceList,
         },
         {
